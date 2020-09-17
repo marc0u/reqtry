@@ -7,7 +7,7 @@ It has the same functions of request/api.py only retries functionality was added
 ## Installation
 
 ```bash
-    $ pip install reqry
+    $ pip install reqtry
 ```
 
 ## Api
